@@ -1,6 +1,6 @@
 # Student Grouper
 
-[working demo](Osmiogrzesznik.github.io/vue-grouper/public)
+[working demo](https://Osmiogrzesznik.github.io/vue-grouper/public)
 
 Quick and dirty Vue tool for grouping students for assignments. No components , routing , or state management. Simply put folder with files in any place. No need for server or building with node tools. Quickly group people and deliver report to teacher. 
 Primary purpose of this tool is to prepare a list of student groups submitted to tutors, 

@@ -1,0 +1,17 @@
+{
+    "rules": {
+      "waga": {
+        "$uid": {
+          ".read": "$uid === auth.uid",
+          ".write": "$uid === auth.uid"
+        }
+      },
+      "grupy": {
+        "$uid": {
+          ".read": "$uid === auth.uid && root.child('grupy').child(auth.uid).child('allowedUsers').hasChild(auth.uid)",
+          ".write": "$uid === auth.uid && root.child('grupy').child(auth.uid).child('allowedUsers').hasChild(auth.uid)"
+        }
+      }
+    }
+  }
+  

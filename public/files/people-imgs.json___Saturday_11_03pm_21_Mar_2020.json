@@ -1,0 +1,160 @@
+{
+  "groups": [
+    {
+      "id": 0,
+      "letter": "Group A",
+      "arr": [
+        {
+          "name": "Leonora Jakubowski",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dpmachado/128.jpg",
+          "id": 1
+        },
+        {
+          "name": "Mandy Littel",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/foczzi/128.jpg",
+          "id": 4
+        },
+        {
+          "name": "Dayton Douglas",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg",
+          "id": 16
+        },
+        {
+          "name": "Eliane Gulgowski",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/aleksitappura/128.jpg",
+          "id": 17
+        },
+        {
+          "name": "Ebba Reilly",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kucingbelang4/128.jpg",
+          "id": 19
+        },
+        {
+          "name": "Tabitha Stracke I",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/ultragex/128.jpg",
+          "id": 20
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "letter": "Group B",
+      "arr": [
+        {
+          "name": "Malvina Halvorson",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/tjrus/128.jpg",
+          "id": 7
+        },
+        {
+          "name": "Bradly Mills",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/layerssss/128.jpg",
+          "id": 8
+        },
+        {
+          "name": "Tate Muller",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+          "id": 9
+        },
+        {
+          "name": "Gabrielle Pacocha",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nerrsoft/128.jpg",
+          "id": 10
+        },
+        {
+          "name": "Evert Quitzon",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/nasirwd/128.jpg",
+          "id": 5
+        },
+        {
+          "name": "Stuart Cummings",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adamsxu/128.jpg",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "letter": "Group C",
+      "arr": [
+        {
+          "name": "Mrs. Alexis O'Connell",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/Shriiiiimp/128.jpg",
+          "id": 12
+        },
+        {
+          "name": "Bethel Hyatt",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+          "id": 13
+        },
+        {
+          "name": "Edgar Jacobson",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/matt3224/128.jpg",
+          "id": 14
+        },
+        {
+          "name": "Joy Morissette",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/psdesignuk/128.jpg",
+          "id": 15
+        },
+        {
+          "name": "Janelle Sauer Sr.",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adityasutomo/128.jpg",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "letter": "Group D",
+      "arr": [
+        {
+          "name": "Ms. Imelda Beahan",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/thewillbeard/128.jpg",
+          "id": 3
+        },
+        {
+          "name": "Eduardo Satterfield",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/jitachi/128.jpg",
+          "id": 11
+        },
+        {
+          "name": "Mr. Khalil Strosin",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/VMilescu/128.jpg",
+          "id": 18
+        },
+        {
+          "name": "Juanita O'Hara",
+          "img": "https://s3.amazonaws.com/uifaces/faces/twitter/dmackerman/128.jpg",
+          "id": 21
+        }
+      ]
+    }
+  ],
+  "students": {
+    "id": -1,
+    "arr": [
+      {
+        "name": "Westley Howe",
+        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/pixage/128.jpg",
+        "id": 22
+      },
+      {
+        "name": "Moises Schoen",
+        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/marshallchen_/128.jpg",
+        "id": 23
+      },
+      {
+        "name": "Ms. Luisa Okuneva",
+        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/woodsman001/128.jpg",
+        "id": 24
+      },
+      {
+        "name": "Ashlynn D'Amore",
+        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/harry_sistalam/128.jpg",
+        "id": 25
+      }
+    ]
+  },
+  "when": "Sat, 21 Mar 2020 23:03:25 GMT",
+  "timestamp": 1584831805228
+}

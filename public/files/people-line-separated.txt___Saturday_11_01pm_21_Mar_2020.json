@@ -1,0 +1,129 @@
+{
+  "groups": [
+    {
+      "id": 0,
+      "letter": "Group A",
+      "arr": [
+        {
+          "id": 1,
+          "name": "Karli Koss"
+        },
+        {
+          "id": 6,
+          "name": "Theodora Huel"
+        },
+        {
+          "id": 7,
+          "name": "Gertrude Heathcote"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "letter": "Group B",
+      "arr": [
+        {
+          "id": 0,
+          "name": "Mr. Mckenna Champlin"
+        },
+        {
+          "id": 2,
+          "name": "Ms. Alexa Jaskolski"
+        },
+        {
+          "id": 3,
+          "name": "Orville Leannon"
+        },
+        {
+          "id": 4,
+          "name": "Jazlyn Carroll"
+        },
+        {
+          "id": 5,
+          "name": "Raquel Considine"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "letter": "Group C",
+      "arr": [
+        {
+          "id": 9,
+          "name": "Deon Dickinson"
+        },
+        {
+          "id": 10,
+          "name": "Joanie Mann IV"
+        },
+        {
+          "id": 11,
+          "name": "Anibal Yundt"
+        }
+      ]
+    }
+  ],
+  "students": {
+    "id": -1,
+    "arr": [
+      {
+        "id": 8,
+        "name": "Natasha Orn"
+      },
+      {
+        "id": 12,
+        "name": "Sydnie Marks III"
+      },
+      {
+        "id": 13,
+        "name": "Kellen Rosenbaum"
+      },
+      {
+        "id": 14,
+        "name": "Mr. Jerrold Douglas"
+      },
+      {
+        "id": 15,
+        "name": "Jessika Bergstrom"
+      },
+      {
+        "id": 16,
+        "name": "Judge Bogan"
+      },
+      {
+        "id": 17,
+        "name": "Phyllis Kreiger"
+      },
+      {
+        "id": 18,
+        "name": "Adelbert Wisoky"
+      },
+      {
+        "id": 19,
+        "name": "Cordelia Quigley"
+      },
+      {
+        "id": 20,
+        "name": "Jettie Lesch"
+      },
+      {
+        "id": 21,
+        "name": "Valentin Hackett"
+      },
+      {
+        "id": 22,
+        "name": "Kaya Kihn"
+      },
+      {
+        "id": 23,
+        "name": "Dr. Clifford Kessler"
+      },
+      {
+        "id": 24,
+        "name": "Hilma Marvin"
+      }
+    ]
+  },
+  "when": "Sat, 21 Mar 2020 23:01:43 GMT",
+  "timestamp": 1584831703129
+}
